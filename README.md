@@ -5,7 +5,7 @@
 <p> Allows users to register and login which allows them to see their own work.</br>
 Saves the data in a Database. </p>
 <h4> Change Log </h4>
-<p> I made sure that the self syudy hours never goes past 0 remaing hours.</p>
+<p> I made sure that the self study hours never goes past 0 remaing hours.</p>
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
 <p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2 folder </br>
