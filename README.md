@@ -17,3 +17,6 @@ Step 3: The project will open up in Visual Studio IDE, build and run the project
 Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2/bin/release/net6.0-windows folder. </br>
 Step 2: Click on the file ST10108243_NikkiGordhan_PROG6212_PoE_Part2.exe to run the application. </br> 
  </p>
+ <h4> How to run the Databse: </h4>
+ <p> Step 1: Doownload the SQL Scripts from GitHub and change the name that suits you. </br>
+ Step 2: </p>
