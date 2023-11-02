@@ -3,8 +3,7 @@
 <h3>Instructions on How to Run and Compile my PoE:</h3>
 <h4> The application does the following:</h4>
 <p> Allows users to register and login which allows them to see their own work.</br>
-Saves the data in a Database.</p>
-
+Saves the data in a Database. </p>
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
 <p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2 folder </br>
