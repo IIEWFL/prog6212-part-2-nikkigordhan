@@ -18,5 +18,6 @@ Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2/bin/release/net6.
 Step 2: Click on the file ST10108243_NikkiGordhan_PROG6212_PoE_Part2.exe to run the application. </br> 
  </p>
  <h4> How to run the Databse: </h4>
- <p> Step 1: Doownload the SQL Scripts from GitHub and change the name that suits you. </br>
- Step 2: </p>
+ <p> Step 1: Download the SQL Scripts from GitHub and change the name that suits you. </br>
+ Step 2: Run the scripts.</br>
+ Step 3: Make sure you add an INSERT statement to add Semester so that the first user cane regitser for the system. </p>
