@@ -9,7 +9,7 @@ Saves the data in a Database. </p>
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
 <p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2 folder. </br>
-Step 2: Navigate to the Config.xml to change the connection string.
+Step 2: Navigate to the Config.xml to change the connection string.</br> 
 Step 2: Click on the solution file ST10108243_NikkiGordhan_PROG6212_PoE_Part2.sln. </br>
 Step 3: The project will open up in Visual Studio IDE, build and run the project. </br>
  </p>
