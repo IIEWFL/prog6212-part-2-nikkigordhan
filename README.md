@@ -8,13 +8,14 @@ Saves the data in a Database. </p>
 <p> I made sure that the self study hours never goes past 0 remaing hours.</p>
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
-<p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2 folder </br>
+<p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2 folder. </br>
+Step 2: Navigate to the Config.xml to change the connection string.
 Step 2: Click on the solution file ST10108243_NikkiGordhan_PROG6212_PoE_Part2.sln. </br>
 Step 3: The project will open up in Visual Studio IDE, build and run the project. </br>
  </p>
 	
 <h5> For a regular user: </h5>
-Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part2/bin/release/net6.0-windows folder. </br>
+Step 1: Open up the Calculate_Self_Study_Hours file. </br>
 Step 2: Click on the file ST10108243_NikkiGordhan_PROG6212_PoE_Part2.exe to run the application. </br> 
  </p>
  <h4> How to run the Databse: </h4>
