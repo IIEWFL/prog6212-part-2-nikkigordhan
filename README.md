@@ -2,7 +2,8 @@
 <h2> Nikki Gordhan ST10108243 </h2>
 <h3>Instructions on How to Run and Compile my PoE:</h3>
 <h4> The application does the following:</h4>
-
+<p> Allows users to register and login which allows them to see their own work.</br>
+Saves the data in a Database.</p>
 
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
